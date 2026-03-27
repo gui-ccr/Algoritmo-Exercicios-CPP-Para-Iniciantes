@@ -36,5 +36,6 @@ int main() {
     int outro_resultado = somar(100, 50);
     std::cout << "O resultado da soma de 100 e 50 eh: " << outro_resultado << std::endl;
 
+    int x = 10;
     return 0; 
 }
